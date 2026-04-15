@@ -1,1 +1,1 @@
-centos
+node:22-alpine
